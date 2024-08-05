@@ -252,11 +252,11 @@
             "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
           },
           {
-            "title": "Trystero",
-            "author": "Dan Motzenbecker / Dmotz",
-            "url": "https://github.com/dmotz/trystero",
-            "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
-          }
+            "title":"Offline-First ServiceWorker",
+            "author":"Raphael wildhaber",
+            "url":"https://github.com/wildhaber/offline-first-sw",
+            "icon":"https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg"            
+          },
         ]
       },
       {
@@ -375,6 +375,12 @@
             "author": "Dan Motzenbecker / Dmotz",
             "url": "https://github.com/dmotz/trystero",
             "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
+          },
+          {
+            "title": "Bugout",
+            "author": "Chris McCormick / @chris@mccormick.cx",
+            "url": "https://github.com/chr15m/bugout",
+            "icon": "https://chr15m.github.io/bugout/bugout-logo.svg"
           }
         ]
       },
@@ -401,10 +407,16 @@
           },
           {
             "title": "XR Fragments",
-            "author": "Leon van Kammen / coderofsalvation",
+            "author": "Leon van Kammen / @leon@mastodon.online",
             "url": "https://xrfragment.org",
             "icon": "https://xrfragment.org/example/assets/logo.svg"
-          }          
+          },
+          {
+            "title": "Slingcode",
+            "author": "Chris McCormick / @chris@mccormick.cx",
+            "url": "https://slingcode.net",            
+            "icon": "https://slingcode.net/public/logo.svg"
+          }
         ]
       }
     ]
@@ -490,10 +502,16 @@
             "icon": "https://pbs.twimg.com/profile_images/1599851549337194496/TUE6LkYS_400x400.jpg"
           },
           {
-            "title": "Coderofsalvation",
+            "title": "Leon van Kammen",
             "author": "@coderofsalvation",
             "url": "https://mastodon.online/@lvk",
             "icon": "https://2wa.isvery.ninja/asset/img/pyramid_avatar.png"
+          },
+          {
+            "title": "Chris McCormick",
+            "author": "@chr15m",
+            "url": "https://mccormick.cx/@chris",
+            "icon": "https://feed.mccormick.cx/system/accounts/avatars/109/426/359/972/443/954/original/96e9844b2c22efb9.jpg"
           }
         ]
       },
